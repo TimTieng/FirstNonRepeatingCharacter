@@ -1,0 +1,15 @@
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/NonRepeatingCharacters.deps.json
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/NonRepeatingCharacters.runtimeconfig.json
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/NonRepeatingCharacters.runtimeconfig.dev.json
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/NonRepeatingCharacters.dll
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/ref/NonRepeatingCharacters.dll
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/bin/Debug/net5.0/NonRepeatingCharacters.pdb
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.csprojAssemblyReference.cache
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.AssemblyInfoInputs.cache
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.AssemblyInfo.cs
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.csproj.CoreCompileInputs.cache
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.dll
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/ref/NonRepeatingCharacters.dll
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.pdb
+/Users/timtieng/Github/CSharp/NonRepeatingCharacters/obj/Debug/net5.0/NonRepeatingCharacters.genruntimeconfig.cache
